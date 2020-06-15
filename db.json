@@ -1,0 +1,56 @@
+{"posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "addTodo": [
+    {
+      "data": "go Home",
+      "id": 1,
+      "userId":1
+    },
+    {
+      "link": "bring bills",
+      "id": 2,
+      "userId":1
+    }
+  ],
+  "users": [
+    { "id": 1, "name": "pallav" }
+  ],
+  "GenerateLink": [
+    {
+      "link": "kl.com/",
+      "id": 1
+    }
+  ],
+  "sendEmail": [
+    {
+      "message": "email has been sent",
+      "id": 1
+    }
+  ],
+  "sendSms": [
+    {
+      "message": "sms has been sent",
+      "id": 1
+    }
+  ],
+  "prospectDetails": [
+    {
+      "orgName": "Uchi Dallas",
+      "contactName": "Junior Borges",
+      "mobileNumber": "768318169",
+      "email": "Juniorborges@UchiDallas.com",
+      "id": 3
+    },
+    {
+      "orgName": "zemoso",
+      "contactName": "vishal",
+      "mobileNumber": "",
+      "email": "vishal@gmail.com",
+      "id": 4
+    }
+  ]
+}
